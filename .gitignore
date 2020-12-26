@@ -1,0 +1,5 @@
+*.swp
+.idea/
+*.npy
+__pycache__/
+*.gds
